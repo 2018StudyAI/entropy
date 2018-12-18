@@ -1,0 +1,1 @@
+python ../02_train.py -d ~/Downloads/output/features.csv -o ~/Downloads/output

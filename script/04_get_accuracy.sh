@@ -1,0 +1,1 @@
+python ../04_get_accuracy.py -c ~/Downloads/output/result.csv

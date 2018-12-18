@@ -1,0 +1,1 @@
+python ../01_extract.py -d /media/choi/ABC/dataset/TrainSet -c /media/choi/ABC/dataset/label/TrainSet.csv -o ~/Downloads/output
